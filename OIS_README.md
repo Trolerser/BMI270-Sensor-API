@@ -17,7 +17,7 @@ well as BMI2 related API calls, as shown below:
 ``` c
 #include "bmi270.h"
 #include "bmi2_ois.h"
-````
+```
 ### Driver files information<a name=file></a>
 - *_bmi2_ois.c_*
    * This file has function definitions of OIS related API interfaces.
